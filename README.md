@@ -1,3 +1,5 @@
+![mornrain-form-guard](assets/preview.png)
+
 # Morn Form Guard
 
 联系表单安全与防刷插件。用短代码 `[morn_form]` 即可在前台放置一个功能完整的安全联系表单，无需任何第三方表单插件。
