@@ -1,4 +1,4 @@
-![mornrain-form-guard](assets/preview.png)
+![mornrain-form-guard](assets/admin.png)
 
 # Morn Form Guard
 
@@ -12,7 +12,9 @@
 - 需要 WordPress：6.0+
 - 需要 PHP：7.4+
 - 测试至：WordPress 6.6
-- 许可证：MIT
+- 许可证：MIT## 界面预览
+
+![后台设置界面](assets/admin.png)
 
 ## 特性
 
